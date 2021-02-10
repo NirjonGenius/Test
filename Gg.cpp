@@ -2,21 +2,7 @@
 #include "string.h"
 #include "stdlib.h"
 void c(char *b) {
-    int over = 0,ball = 0;
-
-    for(int i = 0; b[i]!='\0'; i++) {
-
-        ball++;
-        if(b[i] == 'N') {
-            ball--;
-        }
-        else if(b[i] == 'D') {
-            ball-=1;
-
-        }
-        else if(b[i] == 'W') {
-            ball-=1;
-
+    
         }
 
 
