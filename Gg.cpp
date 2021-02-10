@@ -22,7 +22,7 @@ void c(char *b) {
 
         }
     }
-    else {
+    else {hxhxhhxhxhxhx
         if(over == 1 && ball>1) {
             printf("%d OVER %d BALLS\n",over,ball);
         }
