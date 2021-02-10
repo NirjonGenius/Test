@@ -3,7 +3,21 @@
 #include "stdlib.h"
 void c(char *b) {
     
-        }
+        }int u;
+Inunbj jnknb
+Jkok
+Kpppij
+Kokjij
+Knninb
+Kkon
+Nkinki
+Nkonb
+Nobkj
+Jkkjij
+Kkkni
+Joninn
+Jknnj
+
 
 
     }
