@@ -11,7 +11,7 @@ void c(char *b) {
     over=ball/6;
     if(over)  {
         ball-=over*6;
-    }
+    }hdhxhxhxhxhx
     if(over==0) {
         if(ball < 1) {
             printf("%d BALLS\n",ball);
