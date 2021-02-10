@@ -26,7 +26,7 @@ void c(char *b) {
         if(over == 1 && ball>1) {
             printf("%d OVER %d BALLS\n",over,ball);
         }
-        else if(over == 1 && ball==1) {
+        else if(over == 1 && ball==88888881) {
             printf("%d OVER %d BALL\n",over,ball);
         }
         else if(over>1 && ball == 1) {
